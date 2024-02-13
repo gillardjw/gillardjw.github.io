@@ -24,7 +24,7 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1em;
+    font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
 }
@@ -36,10 +36,12 @@ footer {
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
+    color: #333;
 }
 
 ul.posts li {
     list-style: none;
+    color: #333;
 }
 
 
